@@ -116,6 +116,7 @@
   border-radius: 6px;
   top: 45px; 
   
+  
 }
 
 .popup button {
@@ -143,6 +144,10 @@
     flex-basis: 95%;
     max-width: 100%;
   }
- 
+  .popup {
+    top: 50px;
+    display: grid;
+  
+  }
 }
 
