@@ -1,5 +1,5 @@
 import Card from "./SingleToDoCard";
-import "./css/BoardContent.css";
+import "./css/boardContent.css";
 import React, { useState } from "react";
 
 function BoardContent() {
